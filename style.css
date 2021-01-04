@@ -1,0 +1,41 @@
+body,html {
+	font-family: Montserrat, sans sherif;
+	background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(41,41,41,1) 100%);
+}
+.fullScreen {
+	height: 100vh;
+}
+nav li {
+	padding-right: 80px;
+}
+
+.logo-xs {
+	height: 60px;
+	width: 110px;
+}
+
+.nav-link :hover {
+	color: blue;
+}
+
+.text-portfolio {
+	font-family: 'Anton', sans-sherif;
+}
+
+.wrapper-radius-corner {
+	border-radius: 10px;
+}
+
+h1{
+	color: aliceblue;
+}
+
+h2{
+	color: aliceblue;
+}
+h3{
+	color: aliceblue;
+}
+p {
+	color: darkgray;
+}
